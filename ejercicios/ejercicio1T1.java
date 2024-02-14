@@ -1,6 +1,6 @@
 //commit1 
 
-public class CalculoSegundos {
+public class ejercicio1T1 {
 
     public static void main(String[] args) {
         // Definir variables
